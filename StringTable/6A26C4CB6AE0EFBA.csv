@@ -1,0 +1,10 @@
+ui_br_resurgence_respawn_type,1,,c,i,0,0,1,,,,,,,#0=multi, 1=solo
+ui_br_resurgence_tracked_teams,1,,c,i,0,0,2147483647,,,,,,,#32bits packed: 8bits team 0, 8bits team 1, 8bits team 2, 8bits team 3
+ui_br_resurgence_will_disable,1,,c,b,0,0,1,,,,,,,
+ui_resurgence_care_request,1,,c,a,0,0,31,,,,,,,#5 bits packed: 2 bits request state, 3 bits alive count
+ui_resurgence_team_nemeses,1,,c,a,0,,,,,,,,,#32 bits packed: 8 per squad member's killer
+ui_br_squad_wipe_streak_count,1,,c,i,0,0,155,,,,,1,,#Squad Wipe count
+ui_br_squad_wipe_streak_timer_end_ms,1,,c,t,0,,,,,,,1,,#Squad Wipe timer
+ui_resurgenceRespawnTimer,1,,c,a,0,0,2147483647,,,,,,,#32 bits packed: ( 1 penalty, 1 force )
+ui_resurgence_action_feedback,1,,c,a,0,0,,,,,,,,#14 bits packed: 3 bits for squad member's id,  11 bits for eventId
+ui_elite_resurgence_timer,1,,c,a,0,,,,,,,1,,#Resurgence champion quest timer

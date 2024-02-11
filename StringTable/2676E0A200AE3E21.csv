@@ -1,0 +1,30 @@
+17259,jup_leagueplay_progression,181,,,5|10|15|20|25|30|35|40|45|50,44352+45441+45440+45425+45424|44353+46056|44354+44514|44355+43122|44356+38508|44357+44476|44358+39747|44359+43123|44360+46057|44308+44477+45443+45442+45427+45426,,,League Play Progression,<NOT SET>,,,,0
+21439,jup_leagueplay_penalty,181,,,,,,,SyncToStats,<NOT SET>,,,,0
+21440,jup_leagueplay_sr_penalty,181,,,,,,,SyncToStats,<NOT SET>,,,,0
+21441,jup_leagueplay_suspension,181,,,,,,,SyncToStats,<NOT SET>,,,,0
+21805,jup_leagueplay_overall_stats,181,,,,,,,Overall Stats,<NOT SET>,,,,0
+21806,jup_leagueplay_overall_best_stats,181,,,,,,,Overall Stats,<NOT SET>,,,,0
+21811,jup_leagueplay_s1_win_stats,181,,,,,,,Win Stats,1,,,,0
+21813,jup_leagueplay_s2_win_stats,181,,,,,,,Win Stats,2,,,,0
+21822,jup_leagueplay_s1_hotstreak_stats,181,,,,,,,Hot Streak Stats,1,,,,0
+21828,jup_leagueplay_s2_hotstreak_stats,181,,,,,,,Hot Streak Stats,2,,,,0
+22054,jup_leagueplay_sr_integrity,181,,,,,,,Skill Rating Integrity,<NOT SET>,,,,0
+22056,jup_leagueplay_match_aar,181,,,,,,,Match AAR,<NOT SET>,,,,0
+20479,jup_leagueplay_s1_skilldivision_stats,181,,,,,,,Skilldivision Stats,1,,,,0
+22058,jup_leagueplay_s2_skilldivision_stats,181,,,,,,,Skilldivision Stats,2,,,,0
+17268,jup_wz_leagueplay_progression,252,,,5|10|15|20|25|30|35|40|45|50,51837+53940|51838+50493|51839+52582|51840+52553|51841+50494|51842+52156|51843+52580|51844+52825|51845+52554|51846+50495+52196+52195+52194+52193,,,League Play Progression,<NOT SET>,,,,0
+22241,jup_wz_leagueplay_penalty,252,,,,,,,SyncToStats,<NOT SET>,,,,0
+22243,jup_wz_leagueplay_suspension,252,,,,,,,SyncToStats,<NOT SET>,,,,0
+22242,jup_wz_leagueplay_sr_penalty,252,,,,,,,SyncToStats,<NOT SET>,,,,0
+22246,jup_wz_leagueplay_overall_stats,252,,,,,,,Overall Stats,<NOT SET>,,,,0
+22247,jup_wz_leagueplay_overall_best_stats,252,,,,,,,Overall Stats,<NOT SET>,,,,0
+22248,jup_wz_leagueplay_s1_win_stats,252,,,,,,,Win Stats,1,,,,0
+22250,jup_wz_leagueplay_s2_win_stats,252,,,,,,,Win Stats,2,,,,0
+22259,jup_wz_leagueplay_s1_hotstreak_stats,252,,,,,,,Hot Streak Stats,1,,,,0
+22265,jup_wz_leagueplay_s2_hotstreak_stats,252,,,,,,,Hot Streak Stats,2,,,,0
+22321,jup_wz_leagueplay_sr_integrity,252,,,,,,,Skill Rating Integrity,<NOT SET>,,,,0
+22323,jup_wz_leagueplay_match_aar,252,,,,,,,Match AAR,<NOT SET>,,,,0
+22324,jup_wz_leagueplay_match_sr_gains,252,,,,,,,Match SR Gains,<NOT SET>,,,,0
+22325,jup_wz_leagueplay_match_sr_loss,252,,,,,,,Match SR Loss,<NOT SET>,,,,0
+22326,jup_wz_leagueplay_s1_skilldivision_stats,252,,,,,,,Skilldivision Stats,1,,,,0
+22332,jup_wz_leagueplay_s2_skilldivision_stats,252,,,,,,,Skilldivision Stats,2,,,,0

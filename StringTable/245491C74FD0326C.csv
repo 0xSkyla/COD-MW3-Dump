@@ -1,0 +1,5 @@
+inherit,mp/loot/br/plunder/lootset_root.csv,,,,
+tagReject,nocache,100,,,
+reqAdd,plunder,1,1,,
+reqAdd,support,2,2,,# Required Stim
+reqLimit,brloot_health_adrenaline,1,,,
